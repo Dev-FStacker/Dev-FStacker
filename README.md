@@ -30,7 +30,6 @@ Hi, I'm **Ben**! I'm passionate about crafting **scalable, efficient, and innova
 ## **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-FStacker&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-FStacker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-FStacker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </p>  
