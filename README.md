@@ -9,7 +9,7 @@ Hi, I'm **Ben**! I'm passionate about crafting **scalable, efficient, and innova
 ## 💡 **About Me**  
 - 🎯 **Focused on:** Full-Stack Development  
 - 🌱 Currently exploring **.NET, React & Node.js**  
-- 📩 Reach me at **benns2801@gmail.com**  
+- 📩 Reach me at **bennguyen.contact@gmail.com**  
 
 ---
 
